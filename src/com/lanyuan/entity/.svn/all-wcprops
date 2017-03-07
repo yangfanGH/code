@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity
+END
+UserLoginList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/UserLoginList.java
+END
+userloginlist-mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/userloginlist-mapper.xml
+END
+ServerStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/ServerStatus.java
+END
+Resources.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/Resources.java
+END
+resources-mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/resources-mapper.xml
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/User.java
+END
+user-mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/user-mapper.xml
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/Log.java
+END
+log-mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/log-mapper.xml
+END
+ServerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/ServerInfo.java
+END
+serverInfo-mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/serverInfo-mapper.xml
+END
+UserRoles.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/UserRoles.java
+END
+Roles.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/Roles.java
+END
+roles-mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/roles-mapper.xml
+END
+QunMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/QunMessages.java
+END
+ResourceRoles.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/entity/ResourceRoles.java
+END

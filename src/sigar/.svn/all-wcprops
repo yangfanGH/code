@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/sigar
+END
+.sigar_shellrc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/sigar/.sigar_shellrc
+END
+sigar-x86-winnt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/sigar/sigar-x86-winnt.dll
+END
+sigar-amd64-winnt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/sigar/sigar-amd64-winnt.dll
+END
+libsigar-universal64-macosx.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/sigar/libsigar-universal64-macosx.dylib
+END
+libsigar-pa-hpux-11.sl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/sigar/libsigar-pa-hpux-11.sl
+END
+sigar-x86-winnt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/sigar/sigar-x86-winnt.lib
+END
+libsigar-ia64-hpux-11.sl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/sigar/libsigar-ia64-hpux-11.sl
+END
+libsigar-universal-macosx.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/sigar/libsigar-universal-macosx.dylib
+END

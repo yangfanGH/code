@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/service
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/service/UserService.java
+END
+LogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/service/LogService.java
+END
+ServerInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/service/ServerInfoService.java
+END
+UserLoginListService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/service/UserLoginListService.java
+END
+RolesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/service/RolesService.java
+END
+ResourcesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/service/ResourcesService.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/lanyuancom/lanyuan/!svn/ver/23/trunk/webroot/WEB-INF/jsp/background/role
+END
+edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/lanyuancom/lanyuan/!svn/ver/23/trunk/webroot/WEB-INF/jsp/background/role/edit.jsp
+END
+add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lanyuancom/lanyuan/!svn/ver/23/trunk/webroot/WEB-INF/jsp/background/role/add.jsp
+END
+list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/lanyuancom/lanyuan/!svn/ver/23/trunk/webroot/WEB-INF/jsp/background/role/list.jsp
+END
+show.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/lanyuancom/lanyuan/!svn/ver/23/trunk/webroot/WEB-INF/jsp/background/role/show.jsp
+END

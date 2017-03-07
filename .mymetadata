@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="lanyuan"
+  id="myeclipse.1487744636579"
+  context-root="/lanyuan"
+  j2ee-spec="5.0"
+  archive="lanyuan.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

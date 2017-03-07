@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/pulgin/jdbc/dialet
+END
+H2Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/pulgin/jdbc/dialet/H2Dialect.java
+END
+SQLServer2005Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/pulgin/jdbc/dialet/SQLServer2005Dialect.java
+END
+Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/pulgin/jdbc/dialet/Dialect.java
+END
+PostgreSQLDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/pulgin/jdbc/dialet/PostgreSQLDialect.java
+END
+DerbyDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/pulgin/jdbc/dialet/DerbyDialect.java
+END
+MySQLDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/pulgin/jdbc/dialet/MySQLDialect.java
+END
+OracleDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/pulgin/jdbc/dialet/OracleDialect.java
+END
+SQLServerDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/pulgin/jdbc/dialet/SQLServerDialect.java
+END
+SybaseDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/pulgin/jdbc/dialet/SybaseDialect.java
+END
+DB2Dialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/pulgin/jdbc/dialet/DB2Dialect.java
+END
+HSQLDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/pulgin/jdbc/dialet/HSQLDialect.java
+END

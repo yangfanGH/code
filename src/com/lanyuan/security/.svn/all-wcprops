@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/security
+END
+MySecurityMetadataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/security/MySecurityMetadataSource.java
+END
+MyAccessDecisionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/security/MyAccessDecisionManager.java
+END
+MySecurityFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/security/MySecurityFilter.java
+END
+MyUserDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/security/MyUserDetailServiceImpl.java
+END
+MyAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/security/MyAuthenticationFilter.java
+END

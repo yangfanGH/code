@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/dao/impl
+END
+ResourcesDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/dao/impl/ResourcesDaoImpl.java
+END
+UserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/dao/impl/UserDaoImpl.java
+END
+LogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/dao/impl/LogDaoImpl.java
+END
+ServerInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/dao/impl/ServerInfoDaoImpl.java
+END
+UserLoginListDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/dao/impl/UserLoginListDaoImpl.java
+END
+RolesDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/lanyuancom/lanyuan/!svn/ver/19/trunk/src/com/lanyuan/dao/impl/RolesDaoImpl.java
+END
